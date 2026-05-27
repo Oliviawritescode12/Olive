@@ -1,4 +1,4 @@
-## Hi I am olive
+## Hi I am Olive
 Mathematics and Computer Science Undergraduate focused on :
 -CyberSecurity
 -Phython
